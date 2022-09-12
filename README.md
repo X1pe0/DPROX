@@ -1,4 +1,4 @@
-# WIP - ETA July
+# WIP - ETA Dec
 
 ## DPROX - DNS Reverse Proxy
 An Authoritative DNS Server with Reverse Proxy Functionality
